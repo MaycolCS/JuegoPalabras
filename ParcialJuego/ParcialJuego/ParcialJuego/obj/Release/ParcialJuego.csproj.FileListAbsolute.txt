@@ -1,0 +1,10 @@
+C:\Users\mayko\OneDrive - universidadean.edu.co\Semestres\VII Semestre\Programación .NET - Electiva\Tercer corte\ParcialJuego\ParcialJuego\ParcialJuego\bin\Release\ParcialJuego.exe.config
+C:\Users\mayko\OneDrive - universidadean.edu.co\Semestres\VII Semestre\Programación .NET - Electiva\Tercer corte\ParcialJuego\ParcialJuego\ParcialJuego\bin\Release\ParcialJuego.exe
+C:\Users\mayko\OneDrive - universidadean.edu.co\Semestres\VII Semestre\Programación .NET - Electiva\Tercer corte\ParcialJuego\ParcialJuego\ParcialJuego\bin\Release\ParcialJuego.pdb
+C:\Users\mayko\OneDrive - universidadean.edu.co\Semestres\VII Semestre\Programación .NET - Electiva\Tercer corte\ParcialJuego\ParcialJuego\ParcialJuego\obj\Release\ParcialJuego.csprojAssemblyReference.cache
+C:\Users\mayko\OneDrive - universidadean.edu.co\Semestres\VII Semestre\Programación .NET - Electiva\Tercer corte\ParcialJuego\ParcialJuego\ParcialJuego\obj\Release\ParcialJuego.Form1.resources
+C:\Users\mayko\OneDrive - universidadean.edu.co\Semestres\VII Semestre\Programación .NET - Electiva\Tercer corte\ParcialJuego\ParcialJuego\ParcialJuego\obj\Release\ParcialJuego.Properties.Resources.resources
+C:\Users\mayko\OneDrive - universidadean.edu.co\Semestres\VII Semestre\Programación .NET - Electiva\Tercer corte\ParcialJuego\ParcialJuego\ParcialJuego\obj\Release\ParcialJuego.csproj.GenerateResource.cache
+C:\Users\mayko\OneDrive - universidadean.edu.co\Semestres\VII Semestre\Programación .NET - Electiva\Tercer corte\ParcialJuego\ParcialJuego\ParcialJuego\obj\Release\ParcialJuego.csproj.CoreCompileInputs.cache
+C:\Users\mayko\OneDrive - universidadean.edu.co\Semestres\VII Semestre\Programación .NET - Electiva\Tercer corte\ParcialJuego\ParcialJuego\ParcialJuego\obj\Release\ParcialJuego.exe
+C:\Users\mayko\OneDrive - universidadean.edu.co\Semestres\VII Semestre\Programación .NET - Electiva\Tercer corte\ParcialJuego\ParcialJuego\ParcialJuego\obj\Release\ParcialJuego.pdb
